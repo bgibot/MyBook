@@ -1,0 +1,24 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\selectlanguage *{russian}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Постановка задачи}{3}{Doc-Start}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Заполнение шаблона}{4}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Теоретическая информация}{4}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Ход выполнения работы}{4}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Список}{4}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Картинка}{4}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Таблицы}{5}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Поворот страницы}{6}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Листинг}{7}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Заключение}{8}{listing.caption.4}%
+\contentsfinish 
